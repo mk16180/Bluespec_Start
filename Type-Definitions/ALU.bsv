@@ -54,7 +54,7 @@ endfunction
 
 module mkALU();
     rule test;
-        Bit#(17) inst1 = 17'b0_00001000_00001100; // ADD 8 + 12
+        Bit#(17) inst1 = 17'b0_00001000_00001101; // ADD 8 + 12
         Bit#(17) inst2 = 17'b1_00001100_00001000; // SUB 12 - 8
 
         Bit#(8) result1 = ALU::alu_execute(inst1);
