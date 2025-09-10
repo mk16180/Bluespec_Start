@@ -1,6 +1,6 @@
 # Counter Interface in Bluespec
 
-This project shows a simple **counter** implemented with an **interface** in Bluespec SystemVerilog (BSV).  
+This design shows a simple **counter** implemented with an **interface** in Bluespec SystemVerilog (BSV).  
 It supports both **increment** and **reset** operations.
 
 ---
