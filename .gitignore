@@ -1,0 +1,19 @@
+# Build outputs
+*.o
+*.bo
+*.ba
+*.cxx
+*.so
+*.exe
+*.out
+*.log
+
+# Editor temp files
+*.swp
+*.swo
+*~
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
