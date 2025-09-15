@@ -44,5 +44,4 @@ The producer inserts data into the FIFO, and the consumer retrieves it. A stop c
 
 ---
 
-## Expected Output
 
